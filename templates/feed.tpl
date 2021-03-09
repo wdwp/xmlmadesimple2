@@ -1,0 +1,1 @@
+<pre>{$xml|print_r}</pre>
